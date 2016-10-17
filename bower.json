@@ -18,7 +18,7 @@
     "!README.md"
   ],
   "dependencies": {
-    "d3": "3.x",
+    "d3": "https://github.com/mbostock-bower/d3-bower",
     "crossfilter2": "~1.3"
   }
 }
